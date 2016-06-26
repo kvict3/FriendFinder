@@ -1,0 +1,128 @@
+{
+  "name":"Marty McFly",
+  "photo":"https://upload.wikimedia.org/wikipedia/en/d/d8/Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future,_1985.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+}
+{
+  "name":"Optimus Prime",
+  "photo":"http://tfwiki.net/mediawiki/images2/thumb/3/3a/G1OptimusPrimeStockFootage.jpg/350px-G1OptimusPrimeStockFootage.jpg",
+  "scores":[
+     2,
+     1,
+     3,
+     3,
+     5,
+     4,
+     2,
+     5,
+     4,
+     5
+   ]
+}
+{
+  "name":"Captain America",
+  "photo":"http://ia.media-imdb.com/images/M/MV5BMzk0MTY3MjE4N15BMl5BanBnXkFtZTgwMzQxMjIzODE@._UX600_CR140,20,402,402_SY201_SX201_AL_.jpg",
+  "scores":[
+     3,
+     2,
+     4,
+     1,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+}
+{
+  "name":"Deadpool",
+  "photo":"http://assets2.ignimgs.com/2016/02/05/deadpool1280jpg-c7440a_1280w.jpg",
+  "scores":[
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5
+   ]
+}
+{
+  "name":"Frodo Baggins",
+  "photo":"https://i.ytimg.com/vi/WWYVdBpTLHk/maxresdefault.jpg",
+  "scores":[
+     1,
+     5,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+   ]
+}
+{
+  "name":"Mario",
+  "photo":"http://www.tumbaabierta.com/wp-content/uploads/2014/05/tumbaabierta_bob_Hoskins_mario_bros.jpg",
+  "scores":[
+     4,
+     4,
+     3,
+     2,
+     2,
+     5,
+     5,
+     3,
+     4,
+     2
+   ]
+}
+{
+  "name":"Yoda",
+  "photo":"http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/53964548e4b06bc092d7b340/539657d9e4b00c3ebc484a19/1402363341610/16072317_0d01_1024x2000.jpg",
+  "scores":[
+     5,
+     3,
+     1,
+     4,
+     5,
+     2,
+     2,
+     5,
+     2,
+     2
+   ]
+}
+{
+  "name":"The Monopoly Guy",
+  "photo":"https://i0.wp.com/www.ianbell.com/wp-content/uploads/2012/11/monopoly-man.gif",
+  "scores":[
+     3,
+     3,
+     2,
+     1,
+     5,
+     1,
+     2,
+     5,
+     3,
+     3
+   ]
+}
